@@ -36,10 +36,10 @@ Start with the latest version of NPM to avoid any errors:
 `npm install npm@latest -g`
 * Installation
 
-`Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)`
+Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
 * Clone the repo
 
- `git clone [bacf5/foodify-project.git](https://github.com/bacf5/foodify-project.git)`
+ `git clone https://github.com/bacf5/foodify-project.git`
 * Install NPM packages
 
 `npm install`
