@@ -16,7 +16,7 @@ Foodify is a  JavaScript web application that interacts with the [Forkify API](h
 
 ## Built with
 
-This webapp is built with Vanilla JavaScript along with HTML and SCSS. It uses webpack as module bundler and NPM as package manager.
+This webapp is built with Vanilla JavaScript along with HTML and SCSS. It uses webpack as module bundler and NPM as package manager. This web application uses [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) architecture design pattern.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [SCSS](https://sass-lang.com/)
